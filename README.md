@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.com/aiwithab/aiwithab.svg)](http://hits.dwyl.com/aiwithab/aiwithab)
+
+
 ## Hello there !! 👋
 ### My name is **Abdul Ahad**.
 
