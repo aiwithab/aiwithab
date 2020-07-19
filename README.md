@@ -1,4 +1,5 @@
 [![HitCount](http://hits.dwyl.com/aiwithab/aiwithab.svg)](http://hits.dwyl.com/aiwithab/aiwithab)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/aiwithab?label=Followers&style=social">
 
 
 ## Hello there !! 👋
