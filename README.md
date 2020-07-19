@@ -33,3 +33,5 @@
 <a href="https://twitter.com/aiwithab"><img height="25" src="https://github.com/aiwithab/aiwithab/blob/master/icons/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/aiwithab"><img height="25" src="https://github.com/aiwithab/aiwithab/blob/master/icons/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aiwithab"><img height="25" src="https://github.com/aiwithab/aiwithab/blob/master/icons/linedin.png"></a>&nbsp;&nbsp;
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aiwithab&repo=github-readme-stats)](https://github.com/aiwithab/github-readme-stats)
