@@ -8,8 +8,8 @@
 ## Hello there !! 👋
 ### My name is **Abdul Ahad**.
 
-- 🔭 I’m currently working on Command Gallery project.
-- 🌱 I’m currently learning Angular.
+- 🔭 I’m currently working on Pizza Gallery project.
+- 🌱 I’m currently learning React-native.
 
 
 **Langauges & Tools**
@@ -18,10 +18,6 @@
 <img height="20" src="https://github.com/aiwithab/aiwithab/blob/master/icons/flutter.svg"></code>&nbsp;&nbsp;
 <code>
 <img height="20" src="https://github.com/aiwithab/aiwithab/blob/master/icons/react.svg"></code>&nbsp;&nbsp;
-<code>
-<img height="20" src="https://github.com/aiwithab/aiwithab/blob/master/icons/angular.svg"></code>&nbsp;&nbsp;
-<code>
-<img height="20" src="https://github.com/aiwithab/aiwithab/blob/master/icons/nodejs.svg"></code>&nbsp;&nbsp;
 <code>
 <img height="20" src="https://github.com/aiwithab/aiwithab/blob/master/icons/spring.svg"></code>&nbsp;&nbsp;
 <code>
