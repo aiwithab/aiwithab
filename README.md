@@ -8,12 +8,13 @@
 ## Hello there !! 👋
 ### My name is **Abdul Ahad**.
 
-- 🔭 I’m currently working on Pizza Gallery project.
+- 🔭 I’m currently working on ride sharing application.
 - 🌱 I’m currently learning React-native.
 
 
 **Langauges & Tools**
-
+<code>
+<img height="20" src="https://github.com/aiwithab/aiwithab/blob/master/icons/android.svg"></code>&nbsp;&nbsp;
 <code>
 <img height="20" src="https://github.com/aiwithab/aiwithab/blob/master/icons/flutter.svg"></code>&nbsp;&nbsp;
 <code>
