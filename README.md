@@ -38,6 +38,6 @@
 <a href="https://www.instagram.com/aiwithab"><img height="25" src="https://github.com/aiwithab/aiwithab/blob/master/icons/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aiwithab"><img height="25" src="https://github.com/aiwithab/aiwithab/blob/master/icons/linedin.png"></a>&nbsp;&nbsp;
   
-![AbdulAhad's github stats](https://github-readme-stats.vercel.app/api?username=aiwithab&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![AbdulAhad's github stats](https://github-readme-stats.vercel.app/api?username=aiwithab&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1017)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiwithab&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/aiwithab/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiwithab&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1017)](https://github.com/aiwithab/github-readme-stats)
