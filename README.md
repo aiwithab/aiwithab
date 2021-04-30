@@ -8,8 +8,8 @@
 ## Hello there !! 👋
 ### My name is **Abdul Ahad**.
 
-- 🔭 I’m currently working on ride sharing application.
-- 🌱 I’m currently learning React-native.
+- 🔭 I’m currently working with Jetpack Compose.
+- 🌱 I’m currently learning KMM.
 
 
 **Langauges & Tools**
