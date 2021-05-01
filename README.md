@@ -30,7 +30,7 @@
 [![](https://img.shields.io/badge/-@aiwithab-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/aiwithab)
 [![](https://img.shields.io/badge/-@aiwithab-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aiwithab)
 [![](https://img.shields.io/badge/-abdulahadas@live.com-0078D4?style=flat-square&logo=Microsoft%20Outlook&logoColor=white)](mailto:abdulahadas@live.com)
-[![](https://img.shields.io/badge/-@aiwithab-F58025?style=flat-square&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/aiwithab)
+[![](https://img.shields.io/badge/-@aiwithab-F58025?style=flat-square&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/11255369/aiwithab)
 [![](https://img.shields.io/badge/-@aiwithab-2EC866?style=flat-square&logo=Hackerrank&logoColor=white)](https://hackerrank.com/aiwithab)
 [![](https://img.shields.io/badge/-@aiwithab-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/aiwithab)
   
