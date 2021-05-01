@@ -4,6 +4,7 @@
 - 🔭 I’m currently working with Jetpack Compose.
 - 🌱 I’m currently learning KMM.
 
+![AbdulAhad's github stats](https://github-readme-stats.vercel.app/api?username=aiwithab&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1017)
 
 **Langauges & Tools**
 
@@ -19,7 +20,6 @@
 ![](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white)
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 ---
 
@@ -34,5 +34,5 @@
 [![](https://img.shields.io/badge/-@aiwithab-2EC866?style=flat-square&logo=Hackerrank&logoColor=white)](https://hackerrank.com/aiwithab)
 [![](https://img.shields.io/badge/-@aiwithab-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/aiwithab)
   
-![AbdulAhad's github stats](https://github-readme-stats.vercel.app/api?username=aiwithab&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1017)
 
+<img alt="GIF" src="code.gif" width="500" height="320" />
