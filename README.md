@@ -1,10 +1,3 @@
-
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/aiwithab?label=Followers&style=social">
-
-![Twitter Follow](https://img.shields.io/twitter/follow/aiwithab?style=social)
-
-
 ## Hello there !! 👋
 ### My name is **Abdul Ahad**.
 
@@ -13,31 +6,31 @@
 
 
 **Langauges & Tools**
-<code>
-<img height="20" src="https://github.com/aiwithab/aiwithab/blob/master/icons/android.svg"></code>&nbsp;&nbsp;
-<code>
-<img height="20" src="https://github.com/aiwithab/aiwithab/blob/master/icons/flutter.svg"></code>&nbsp;&nbsp;
-<code>
-<img height="20" src="https://github.com/aiwithab/aiwithab/blob/master/icons/react.svg"></code>&nbsp;&nbsp;
-<code>
-<img height="20" src="https://github.com/aiwithab/aiwithab/blob/master/icons/spring.svg"></code>&nbsp;&nbsp;
-<code>
-<img height="20" src="https://github.com/aiwithab/aiwithab/blob/master/icons/java.svg"></code>&nbsp;&nbsp;
-<code>
-<img height="20" src="https://github.com/aiwithab/aiwithab/blob/master/icons/python.svg"></code>&nbsp;&nbsp;
-<code>
-<img height="20" src="https://github.com/aiwithab/aiwithab/blob/master/icons/mysql.svg"></code>&nbsp;&nbsp;
-<code>
-<img height="20" src="https://github.com/aiwithab/aiwithab/blob/master/icons/linux.svg"></code>&nbsp;&nbsp;
+
+![](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+![](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
+![](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white)
+![](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![](https://img.shields.io/badge/-Dart-0175C1?style=flat-square&logo=Dart&logoColor=white)
+![](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+![](https://img.shields.io/badge/-Intellij%20IDEA-000000?style=flat-square&logo=Intellij%20IDEA&logoColor=white)
+![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white)
+
+---
 
 
-**Contact me**
+**Get in touch**
 
-<p align='left'>
-<a href="https://twitter.com/aiwithab"><img height="25" src="https://github.com/aiwithab/aiwithab/blob/master/icons/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/aiwithab"><img height="25" src="https://github.com/aiwithab/aiwithab/blob/master/icons/instagram.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aiwithab"><img height="25" src="https://github.com/aiwithab/aiwithab/blob/master/icons/linedin.png"></a>&nbsp;&nbsp;
+[![](https://img.shields.io/badge/-@aiwithab-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/aiwithab)
+[![](https://img.shields.io/badge/-@aiwithab-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/aiwithab)
+[![](https://img.shields.io/badge/-@aiwithab-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aiwithab)
+[![](https://img.shields.io/badge/-abdulahadas@live.com-0078D4?style=flat-square&logo=Microsoft%20Outlook&logoColor=white)](mailto:abdulahadas@live.com)
+[![](https://img.shields.io/badge/-@aiwithab-F58025?style=flat-square&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/aiwithab)
+[![](https://img.shields.io/badge/-@aiwithab-2EC866?style=flat-square&logo=Hackerrank&logoColor=white)](https://hackerrank.com/aiwithab)
+[![](https://img.shields.io/badge/-@aiwithab-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/aiwithab)
   
 ![AbdulAhad's github stats](https://github-readme-stats.vercel.app/api?username=aiwithab&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1017)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiwithab&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1017)](https://github.com/aiwithab/github-readme-stats)
