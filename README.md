@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white)
 
-<img align="right" alt="GIF" src="rick.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 ---
 
