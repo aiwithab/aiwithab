@@ -1,5 +1,5 @@
 ## Hello there !! 👋
-### My name is **Abdul Ahad**.
+### I am **Abdul Ahad**.
 
 - 🔭 I’m currently working with Jetpack Compose.
 - 🌱 I’m currently learning KMM.
