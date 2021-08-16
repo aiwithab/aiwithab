@@ -1,10 +1,12 @@
 ## Hello there !! 👋
 ### I am **Abdul Ahad**.
 
-- 🔭 I’m currently working with Jetpack Compose.
-- 🌱 I’m currently learning KMM.
+- 🔭 I’m currently working with Flutter.
+- 🌱 I’m currently learning SpringBoot.
 
 ![AbdulAhad's github stats](https://github-readme-stats.vercel.app/api?username=aiwithab&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1017)
+
+<img alt="GIF" src="code.gif" width="500" height="320" />
 
 **Langauges & Tools**
 
@@ -35,4 +37,4 @@
 [![](https://img.shields.io/badge/-@aiwithab-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/aiwithab)
   
 
-<img alt="GIF" src="code.gif" width="500" height="320" />
+
